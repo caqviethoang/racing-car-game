@@ -1,5 +1,6 @@
 DH22TIN04 - Bài Python - Racing Car Game
 
+Nhóm 6
 223233 - Trịnh Duy Anh,
 223826 - Nguyễn Ngọc lợi,
 224790 - Hồ Quốc Cường,
