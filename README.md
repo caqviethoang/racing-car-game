@@ -1,5 +1,5 @@
-Bài Python - Racing Car Game
-DH22TIN04
+DH22TIN04 - Bài Python - Racing Car Game
+
 223233 - Trịnh Duy Anh
 223826 - Nguyễn Ngọc lợi
 224790 - Hồ Quốc Cường
