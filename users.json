@@ -1,0 +1,22 @@
+{
+    "CaoVietHoang": {
+        "password_hash": "861675b4bacec185c4daedaf1bfc99c79c0efa547f30325ad1143030099a17d5",
+        "high_score": 1592
+    },
+    "Hieu": {
+        "password_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "high_score": 206
+    },
+    "123123": {
+        "password_hash": "96cae35ce8a9b0244178bf28e4966c2ce1b8385723a96a6b838858cdd6ca0a1e",
+        "high_score": 989
+    },
+    "123456": {
+        "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "high_score": 881
+    },
+    "hoang123": {
+        "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "high_score": 2594
+    }
+}
